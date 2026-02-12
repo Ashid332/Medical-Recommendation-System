@@ -1,0 +1,22 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Large data files
+*.zip
+*.tar
+*.tar.gz
+
+# Cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+*.swp
