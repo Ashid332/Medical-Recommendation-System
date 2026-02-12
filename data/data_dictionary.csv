@@ -1,0 +1,16 @@
+Feature,Data_Type,Description,Values_Range,Missing_Percentage,Unit
+patient_id,Integer,Unique patient identifier,1-10000,0%,ID
+age,Integer,Patient age in years,18-90,0.5%,years
+gender,Categorical,Patient gender,M/F,0%,category
+fever,Binary,Presence of fever symptom,0/1,1%,binary
+cough,Binary,Presence of cough,0/1,1.2%,binary
+sore_throat,Binary,Presence of sore throat,0/1,1%,binary
+headache,Binary,Presence of headache,0/1,0.8%,binary
+fatigue,Binary,Presence of fatigue,0/1,1.5%,binary
+body_ache,Binary,Presence of body ache,0/1,1.1%,binary
+hypertension,Binary,Patient has hypertension,0/1,0.3%,binary
+diabetes,Binary,Patient has diabetes,0/1,0.4%,binary
+heart_disease,Binary,Patient has heart disease,0/1,0.2%,binary
+asthma,Binary,Patient has asthma,0/1,0.5%,binary
+predicted_disease,Categorical,Predicted disease classification,Common Cold/Influenza/COVID-19/Pneumonia/Asthma Attack/etc,0%,category
+severity,Categorical,Disease severity level,Low/Medium/High,0%,category
