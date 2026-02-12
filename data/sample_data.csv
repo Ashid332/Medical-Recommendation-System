@@ -1,0 +1,16 @@
+patient_id,age,gender,fever,cough,sore_throat,headache,fatigue,body_ache,hypertension,diabetes,heart_disease,asthma,predicted_disease,severity
+1,35,M,1,1,1,1,1,0,0,0,0,0,Common Cold,Low
+2,45,F,0,1,0,1,1,1,1,0,0,0,Influenza,Medium
+3,28,M,1,0,1,0,1,0,0,0,0,0,Viral Infection,Low
+4,62,F,0,1,0,1,1,1,1,1,1,0,COVID-19,High
+5,42,M,1,1,1,1,1,1,0,1,0,0,Dengue Fever,Medium
+6,55,F,0,0,0,1,0,0,1,1,1,0,Hypertension,Medium
+7,38,M,0,1,0,1,1,0,0,0,0,1,Asthma Attack,Medium
+8,72,F,1,1,0,1,1,1,1,1,1,0,Pneumonia,High
+9,33,M,0,0,1,0,0,0,0,0,0,0,Pharyngitis,Low
+10,51,F,1,0,0,1,1,1,1,0,0,0,Migraine,Medium
+11,29,M,0,1,1,0,1,0,0,0,0,0,Throat Infection,Low
+12,47,F,0,0,0,1,0,0,0,1,0,0,Type 2 Diabetes,Medium
+13,66,M,1,1,0,1,1,1,1,1,1,0,Bronchitis,High
+14,40,F,0,1,0,1,0,0,0,0,0,1,Chronic Cough,Low
+15,58,M,0,0,0,0,0,0,1,0,1,0,Hypertension Risk,Medium
